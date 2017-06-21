@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CabanaViewTool::Renderer.copyright 'Nick Cabana', 'All rights reserved'
+```
 
 ## Development
 

@@ -6,7 +6,7 @@ require "cabana_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "cabana_view_tool"
   spec.version       = CabanaViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Nick Cabana"]
   spec.email         = ["cabanacleaningservices@gmail.com"]
 
   spec.summary       = %q{Some views I will be using for my application.}
